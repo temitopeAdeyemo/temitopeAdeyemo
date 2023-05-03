@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Javascript, Typescript, Express, Node js, Nest js, mongodb, mysql, Postgresql and backend best practices.**
 
-- 📄 Know about my experiences [CLICK HERE](https://drive.google.com/file/d/1BUaqVjkmEKGP8xHoKbVve_lGR8nCP9WP/view?usp=drivesdk)
+- 📄 Know about my experiences, [Click here](https://drive.google.com/file/d/1BUaqVjkmEKGP8xHoKbVve_lGR8nCP9WP/view?usp=drivesdk)
 
 - 📫 How to reach me **temitopejulius9@gmail.com**
 
