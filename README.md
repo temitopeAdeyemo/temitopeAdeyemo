@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Java, Javascript, Typescript, Springboot, Express, Node js, Nest js, Hibernate, Spring Security, mongodb, mysql, Postgresql and backend best practices.**
 
-- 📄 Know about my experiences, [Click here](https://drive.google.com/file/d/1BUaqVjkmEKGP8xHoKbVve_lGR8nCP9WP/view?usp=drivesdk).
+- 📄 Know about my experiences, [Click here](https://docs.google.com/document/d/1nu4UKgwA9MOOVo7HM6NBRf9RpRQhFp2zkAmFxI77ZPc).
 
 - 📫 How to reach me **temitopejulius9@gmail.com**.
 
