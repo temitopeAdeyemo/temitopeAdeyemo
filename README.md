@@ -1,7 +1,7 @@
 <h2 align="center">The world gets better with codes, I write codes.</h2>
 <br />
 
-- 💬 Ask me about **Javascript, Typescript, Express, Node js, Nest js, mongodb, mysql, Postgresql and backend best practices.**
+- 💬 Ask me about **Java, Javascript, Typescript, Springboot, Express, Node js, Nest js, Hibernate, Spring Security, mongodb, mysql, Postgresql and backend best practices.**
 
 - 📄 Know about my experiences, [Click here](https://drive.google.com/file/d/1BUaqVjkmEKGP8xHoKbVve_lGR8nCP9WP/view?usp=drivesdk).
 
